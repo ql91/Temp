@@ -1,0 +1,15 @@
+{
+    "color_scheme": "Packages/User/SublimeLinter/Summerfruit (SL).tmTheme",
+    "font_size": 11,
+    "ignored_packages":
+    [
+        "Markdown",
+        "Vintage"
+    ],
+    "index_exclude_patterns":
+    [
+        "C:\\Users\\G40M\\Desktop\\vue-2015-12-31\\vue*"
+    ],
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true
+}

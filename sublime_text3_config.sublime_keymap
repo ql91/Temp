@@ -1,0 +1,42 @@
+[
+//firefox
+{
+"keys": ["f1"],
+"command": "side_bar_files_open_with",
+"args": {
+"paths": [],
+"application": "E:\\Program Files\\Mozilla Firefox\\firefox.exe",
+"extensions": ".*"
+}
+},
+//chorme
+{
+"keys": ["f2"],
+"command": "side_bar_files_open_with",
+"args": {
+"paths": [],
+"application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+"extensions": ".*"
+}
+},
+//IE
+{
+"keys": ["f3"],
+"command": "side_bar_files_open_with",
+"args": {
+"paths": [],
+"application": "C:\\Program Files (x86)\\Internet Explorer\\iexplore.exe",
+"extensions": ".*"
+}
+},
+//360se
+{
+"keys": ["f4"],
+"command": "side_bar_files_open_with",
+"args": {
+"paths": [],
+"application": "C:\\Users\\G40M\\AppData\\Roaming\\360se6\\Application\\360se.exe",
+"extensions": ".*"
+}
+}
+]
