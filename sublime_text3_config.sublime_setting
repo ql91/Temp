@@ -11,5 +11,8 @@
         "C:\\Users\\G40M\\Desktop\\vue-2015-12-31\\vue*"
     ],
     "tab_size": 4,
-    "translate_tabs_to_spaces": true
+    "translate_tabs_to_spaces": true,
+    "syntax_map": {  // babel插件安装，js语法检查安装，需要配置，否则es6语法会有小黄点提示
+      "JavaScript (Babel)": "javascript",
+    }
 }
